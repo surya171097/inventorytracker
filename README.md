@@ -25,7 +25,7 @@ An advanced Excel-based stock verification system with automated stock tracking 
 
 ## 📁 File Included
 
-- `G_FLURO_Inventory_Tracker.xlsx`
+- `G FLURO STOCKS INVENTORY.xlsx`
 
 ---
 
