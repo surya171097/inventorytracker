@@ -1,4 +1,4 @@
-# 📦 G FLURO Inventory Management System (Excel)
+# 📦Inventory Management System (Excel) FOR MY CLIENT  G FLURO COATINGS PVT LTD
 
 An advanced Excel-based stock verification system with automated stock tracking using product codes. Built for real-time monitoring of **inward** and **outward** stock movements.
 
